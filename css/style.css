@@ -31,6 +31,7 @@ body {
 }
 
 .content {
+
   background: #fdf800;
   color: black;
   position: relative;
@@ -39,8 +40,8 @@ body {
 
 
 .logo{
+
 	width: 500px;
-	margin-left: 50px;
 }
 
 .footer {
